@@ -18,3 +18,6 @@ hello world! hello git!
 1111111111111111111111111111111111111111
 hot-fix insert
 master changer2
+master change
+hot-fix change1
+hot-fix changer2
